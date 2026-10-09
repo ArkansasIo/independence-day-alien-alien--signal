@@ -1,0 +1,11 @@
+{
+  "duration_seconds": 7.0,
+  "sample_rate_hz": 44100,
+  "channels": 2,
+  "bit_depth": 16,
+  "nominal_pulse_rate_hz": 4.15,
+  "nominal_pulse_period_ms": 240.96385542168673,
+  "carrier_center_hz": 438.0,
+  "sub_component_hz": 74,
+  "note": "Original reconstruction; values are synthesis parameters, not verified measurements of the film recording."
+}
